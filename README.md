@@ -1,4 +1,4 @@
-# CRM-Analytics-CLTV-Prediction
+#CRM-Analytics-CLTV-Prediction
 ![image](https://user-images.githubusercontent.com/124357663/224994928-a8ae4b0c-c7ff-495a-89a4-66d8e404f625.png)
 
 Customer lifetime value (Customer Lifetime Value, CLTV) is considered the monetary value that a customer will bring to a company during its relationship and communication with that company. If a company identifies the benefits that its customers can provide in the future, it can streamline its customer relationships and take a more value-added approach. A company that has calculated unit costs for acquiring new customers can compare customer lifetime value calculations with marketing activities aimed at existing customer bases and efforts to find new customers.
